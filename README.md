@@ -1,2 +1,4 @@
-# aretor.github.io
-Personal site
+---
+layout: forward
+target: https://aretor.it
+---
